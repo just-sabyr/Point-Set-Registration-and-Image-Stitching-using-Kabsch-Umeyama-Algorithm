@@ -1,16 +1,14 @@
 # Point Set Registration and Image Stitching
 
-Done as part of Numerical Methods Project
+Done as part of Numerical Methods Course Project
 
 # Demo
 
-# Requirements
+# Dependencies
 Python v3.10.13
 
 
 # Installation
-
-(Figure out yourselves for other OSs, this is Linux world baby)
 
 1. Create a python virtual environment 
 ```bash
