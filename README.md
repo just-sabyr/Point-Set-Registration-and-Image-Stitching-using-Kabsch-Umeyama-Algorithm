@@ -5,6 +5,8 @@ Done as part of Numerical Methods Course Project
 # Demo
 Look at the report for more details in the `about_project` folder.
 
+## Image Stitching Examples
+
 ![Pikachu Example](about_project/pikachu_together.png)
 ![Mountain Example](about_project/mountain_res_together.png)
 
